@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Dynamics 365 Portals Training Dev Blog,
+  title: 'Dynamics 365 Portals Training Dev Blog',
   subtitle: 'Microsoft Dynamics 365 Portals Training Development Blog',
   copyright: '© All rights reserved.',
   disqusShortname: '',
