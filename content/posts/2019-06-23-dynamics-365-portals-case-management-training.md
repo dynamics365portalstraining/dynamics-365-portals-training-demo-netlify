@@ -16,7 +16,7 @@ Microsoft Dynamics 365 Portals Case Management Training or D365 Case Management 
 The web Portal forms that are updating cases or displayed on the portal for creating may be customized.
 
 Create cases from scratch.
-Sign in to the portal allowing you to control what fields are visible to the user and then select Support.
+Sign in to the https://dynamics365portalstraining.com portal allowing you to control what fields are visible to the user and then select Support.
 
 
 View existing D365 Portals cases in the place.
