@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'D365 Portals Training Dev',
     photo: '/photo.jpg',
-    bio: 'Dynamics 365 Portals Training Development Website Test',
+    bio: 'Dynamics 365 Portals Training Development Website Test V1.1',
     contacts: {
       email: '#',
       telegram: '#',
