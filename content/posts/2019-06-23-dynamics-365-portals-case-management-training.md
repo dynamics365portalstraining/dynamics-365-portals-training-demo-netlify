@@ -4,7 +4,11 @@ title: Dynamics 365 Portals Case Management Training
 slug: /posts/dynamics-365-portals-case-management-training
 draft: false
 date: 2019-06-22T01:55:47.252Z
-description: Dynamics 365 Portals Case Management Training
+description: >-
+  Dynamics 365 Portals Case Management Training is a type of Dynamics 365
+  Portals Training (D365 Portals Training is the Add on for Dynamics 365
+  Customer Engagement or D365 CRM). It is specifically related to Customer
+  Service and the Case Entity in Dynamics 365 CRM.
 category: Dynamics 365 Portals Case Management Training
 ---
 Microsoft Dynamics 365 Portals Case Management Training or D365 Case Management Portals learning and training usually deals with [Dynamics 365 Portals Training](https://dynamics365portalstraining.com) as it relates to the use of cases. This use of cases will usually vary depending on your type of organization or business. In general, cases are used to make and resolve as well as monitor the many different kinds of problems that are shown through a portal from the underlying Dynamics CRM Case Entities. Comment or make changes to the cases in portals.Update and review any original info already provided, as well as properly check the status if it is open or closed for the D365 CRM Case for streamlined management.
