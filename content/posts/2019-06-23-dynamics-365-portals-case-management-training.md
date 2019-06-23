@@ -2,7 +2,7 @@
 template: post
 title: Dynamics 365 Portals Case Management Training
 slug: /posts/dynamics-365-portals-case-management-training
-draft: true
+draft: false
 date: 2019-06-22T01:55:47.252Z
 description: Dynamics 365 Portals Case Management Training
 category: Dynamics 365 Portals Case Management Training
